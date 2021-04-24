@@ -1,6 +1,6 @@
 module.exports = {
-  name: 'wolves-league-dark',
-  displayName: 'Wolves League Dark',
+  name: 'wolves-league-black',
+  displayName: 'Wolves League Black',
   theme: {
     background: {
       default: "#000000",
