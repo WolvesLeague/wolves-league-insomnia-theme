@@ -1,0 +1,34 @@
+{
+  "name": "insomnia-plugin-wolves-league-theme",
+  "description": "Official Wolves League theme",
+  "version": "1.0.0",
+  "license": "MIT",
+  "insomnia": {
+    "name": "wolves-league-theme",
+    "displayName": "Wolves League Theme",
+    "description": "Dark and Black themes focused on the color red",
+    "images": {
+      "icon": "images/wolves-league-logo-with-background.svg"
+    }
+  },
+  "main": "index.js",
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "insomnia",
+    "insomnia-theme",
+    "insomnia-plugin",
+    "color-theme",
+    "wolves-league",
+    "red"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WolvesLeague/wolves-league-insomnia-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WolvesLeague/wolves-league-insomnia-theme/issues"
+  },
+  "homepage": "https://github.com/WolvesLeague/wolves-league-insomnia-theme#readme"
+}
