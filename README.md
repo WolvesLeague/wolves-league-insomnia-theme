@@ -1,8 +1,9 @@
 <h1 align="center">Wolves League Insomnia theme</h1>
-<center>
+
+<p align="center">
   <img src="./images/wolves-league-logo-with-background.svg" width="200" align="center">
-  <p>Official <strong>Wolves League</strong> Insomnia theme.</p>
-</center>
+</p>
+<p align="center">Official <strong>Wolves League</strong> Insomnia theme.</p>
 
 ## Colors and variants
 
