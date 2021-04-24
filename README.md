@@ -1,6 +1,8 @@
-# Wolves League Insomnia theme
-
-Official **Wolves League** Insomnia theme.
+<h1 align="center">Wolves League Insomnia theme</h1>
+<center>
+  <img src="./images/wolves-league-logo-with-background.svg" width="200" align="center">
+  <p>Official <strong>Wolves League</strong> Insomnia theme.</p>
+</center>
 
 ## Colors and variants
 
@@ -14,6 +16,11 @@ There are 2 variants:
 ![Wolves League Dark Theme](https://raw.githubusercontent.com/WolvesLeague/wolves-league-insomnia-theme/main/images/insomnia-wolves-league-dark-screenshot.png)
 
 ![Wolves League Black Theme](https://raw.githubusercontent.com/WolvesLeague/wolves-league-insomnia-theme/main/images/insomnia-wolves-league-black-screenshot.png)
+
+## Install instructions
+Open **Preferences** > **Plugins**, type `insomnia-plugin-wolves-league-theme` and click **Install Plugin**;
+
+To enable the theme, go to **Themes** (still under preferences) and apply the **Wolves League** theme.
 
 ## Issues and suggestions
 
