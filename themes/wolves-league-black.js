@@ -36,6 +36,11 @@ module.exports = {
       }
     },
     rawCss: `
+    .app-header .btn--clicky-small {
+      background-color: #ff5252 !important;
+      color: #400000 !important;
+    }
+
     span.cm-string.cm-property {
       color: #ff5252 !important;
     }
