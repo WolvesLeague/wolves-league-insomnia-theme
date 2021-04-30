@@ -23,7 +23,7 @@ There are 2 variants:
 
 ### **Option 1**
 
-Go to the theme page in Insomnia Plugin Hub and click **Install Plugin**;
+Go to the theme page in [Insomnia Plugin Hub](https://insomnia.rest/plugins/insomnia-plugin-wolves-league-theme) and click **Install Plugin**;
 
 Your browser will probably ask you to open Insomnia, after opening it, click **Install**.
 
