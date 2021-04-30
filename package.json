@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-wolves-league-theme",
   "description": "Official Wolves League theme",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "license": "MIT",
   "insomnia": {
     "name": "wolves-league-theme",
